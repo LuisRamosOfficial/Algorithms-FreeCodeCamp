@@ -1,6 +1,6 @@
-Recursion, which originates from the Latin verb, “recurrere” means to “run back”... 
-and this is what the program we’re going to write together is going to do- run back to itself, over and over, 
-as many times as it needs to until the program terminates. 
+#Recursion, which originates from the Latin verb, “recurrere” means to “run back”... 
+#and this is what the program we’re going to write together is going to do- run back to itself, over and over, 
+#printas many times as it needs to until the program terminates. 
 
 
 ____________________________________________________EXAMPLES__________________________________________________________
@@ -73,5 +73,5 @@ def permute(string, pocket=""):
 _______________________________________________________________
 
 
-NO PROGRAM WAS DISCUSSED FOR N-QUEENS PROBLEM
+#NO PROGRAM WAS DISCUSSED FOR N-QUEENS PROBLEM
 
